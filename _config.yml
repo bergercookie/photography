@@ -5,11 +5,11 @@ image_thumbs_loc: "/photography/images/thumbs"
 google_analytics: ""
 
 # UI configs
-title: "Nikos Koukis"
+title: "Bergercookie's Thoughtstream"
 subtitle: "See the world through my eyes!"
 author: "Nikos Koukis"
 header:
- title: "Φωτογραφία"
+ title: "Φωτογραφια"
  subtitle: ""
 footer:
  name: "Nikos Koukis"
